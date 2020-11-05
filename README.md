@@ -6,6 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benigumocom&layout=compact)
 
-gists https://gist.github.com/benigumocom
+[Gists](https://gist.github.com/benigumocom)
 
 
