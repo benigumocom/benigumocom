@@ -3,12 +3,3 @@
 [■](https://github.com/benigumocom/index#index)
 
 [Gists](https://gist.github.com/benigumocom)
-
-
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
